@@ -18,8 +18,8 @@ Hey there! I'm **Tanishq Nama**, a cybersecurity enthusiast passionate about **h
 
 ### 🌍 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanishq-nama) 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/TanishqNama)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/tanishq_nama)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/ultrew)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ultrew)
 
 ---
 
@@ -28,13 +28,6 @@ Hey there! I'm **Tanishq Nama**, a cybersecurity enthusiast passionate about **h
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 ![Networking](https://img.shields.io/badge/-Networking-05122A?style=flat&logo=cisco)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-05122A?style=flat&logo=kali-linux)
-
----
-
-### 🔥 GitHub Stats:
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishqNama&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqNama&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
