@@ -5,7 +5,7 @@
 ---
 
 ### 👾 Who Am I?
-Hey there! I'm **Ultrew aka** **Tanishq Nama**, a cybersecurity enthusiast passionate about **hacking, ethical security, and digital defense**. When I'm not diving into security exploits, I'm exploring the depths of **psychology, spirituality, and the occult**—or binging my favorite anime! 🎶🎧
+Hey there! I'm **Ultrew aka** **Tanishq Nama**, a cybersecurity enthusiast passionate about **hacking, cyber security, and digital defense**. When I'm not diving into security exploits, I'm exploring the depths of **psychology, spirituality, and the occult**—or binging my favorite anime! 🎶🎧
 
 ### 🔥 What Drives Me:
 - 🔐 **Cybersecurity & Ethical Hacking** – Breaking things to make them stronger.
