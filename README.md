@@ -19,7 +19,6 @@ Hey there! I'm **Ultrew aka** **Tanishq Nama**, a cybersecurity enthusiast passi
 ### 🌍 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanishq-nama) 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/ultrew)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ultrew)
 
 ---
 
